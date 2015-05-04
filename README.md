@@ -1,0 +1,1 @@
+This is a repository of the random game-related shit that sometimes pops into my head. It is purely a vanity project, and doesn't necessarily any attempt to codify those ideas into an actual game--it's merely a way for me to record these in some persistent way, and store them in public on the off chance that some person somewhere might find them interesting.
